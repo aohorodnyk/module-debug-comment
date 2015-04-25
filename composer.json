@@ -1,14 +1,14 @@
 {
     "name": "magento/module-debug-comment",
     "description": "N/A",
-	"authors": [
+    "authors": [
         {
             "name": "Anton Ohorodnyk",
             "email": "anton@ohorodnyk.name",
             "homepage": "http://www.ohorodnyk.name/",
             "role": "Developer"
         }
-    ]
+    ],
     "require": {
         "php": "~5.5.0|~5.6.0",
         "magento/framework": "0.74.0-beta5",
