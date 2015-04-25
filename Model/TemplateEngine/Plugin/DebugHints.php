@@ -2,8 +2,10 @@
 /**
  * Plugin for the template engine factory that makes a decision of whether to activate debugging hints or not
  *
- * Copyright © 2015 Magento. All rights reserved.
- * See COPYING.txt for license details.
+ * (c) Anton Ohorodnyk <anton@ohorodnyk.name>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 // @codingStandardsIgnoreFile
